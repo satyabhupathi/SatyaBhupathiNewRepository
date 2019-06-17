@@ -1,2 +1,1 @@
-my text line2 
-my text line3 
+newline 1 .
